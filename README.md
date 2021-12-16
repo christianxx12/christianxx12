@@ -1,7 +1,7 @@
 ### Hola 👋, mi nombre es Christian
 ![](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)
 
-Soy un apasionado por el desarrollo Frontend y un autodidacta del aprendizaje autodidacta. Apasionado de los temas sobre TI y amo aprender cosas nuevas.
+Soy un apasionado por el desarrollo Frontend y un estudiante eterno. Apasionado de los temas sobre TI y amo aprender cosas nuevas.
 
 Habilidades: REACT / JS / HTML / CSS
 
